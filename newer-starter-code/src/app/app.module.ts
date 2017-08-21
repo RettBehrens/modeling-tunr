@@ -15,7 +15,7 @@ import { AboutComponent } from './about/about.component';
   declarations: [
     AppComponent,
     HomeComponent,
-    AboutComponent
+    AboutComponent,
   ],
   imports: [
     BrowserModule.withServerTransition({appId: 'cli-universal-demo'}),
